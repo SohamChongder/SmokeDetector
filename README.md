@@ -40,7 +40,7 @@ We have implemented various machine learning models for smoke detection, includi
 - Random Forest Classifier
 - Bayes' Classifier
 
-You can find the code for these models in the respective sections of the Jupyter notebook or Python scripts.
+You can find the code for these models in the respective sections of the [Jupyter notebook](Copy_of_DS3_Project_(1).ipynb) or Python scripts.
 
 ## Evaluation
 
